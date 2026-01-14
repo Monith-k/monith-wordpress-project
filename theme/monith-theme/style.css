@@ -1,0 +1,23 @@
+/*
+Theme Name: Monith Theme
+Author: Monith
+Description: My first custom WordPress theme for rtCamp preparation
+Version: 1.0
+*/
+body {
+    background-color: #f4f4f4 !important;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+hr {
+    margin: 20px 0;
+}
